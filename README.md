@@ -24,3 +24,6 @@ The period from June 2012 to September 2012. The dataset includes 11 attribues a
 - Build Up Index(BUI),
 - Fire Weather Index(FWI),
 - Classes: (0) No Fire, (1) Fire
+
+Heroku Link: https://forest-fires-classification.herokuapp.com/
+
