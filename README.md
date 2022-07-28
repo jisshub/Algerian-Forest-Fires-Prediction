@@ -51,13 +51,13 @@
 - Fire Weather Index(FWI),
 - Classes: (0) No Fire, (1) Fire
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Heroku Deployment
 * Create new repo in Github and push all the data using `Git`.
 * Install Heroku CLI and login using `heroku login` and setup the app in Heroku Web.
 * Connect with app `heroku git:remote -a appname`
 * Push to Heroku using `git push heroku main`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
